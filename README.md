@@ -7,38 +7,38 @@ This project analyzes historical rice crop production data to identify trends, s
 
 Contains multi-year rice production data including:
 
-Geographic details
-Climate factors
-Cultivation practices
+Geographic details,
+Climate factors,
+Cultivation practices,
 Yield measurements
 
  Preprocessing:
 
-Removed missing values & outliers
-Normalized data
-Ensured data integrity
+Removed missing values & outliers,
+Normalized data,
+Ensured data integrity,
 Extracted additional useful features
 
 EDA:
 
-Statistical summaries
-Time series plots & trend visuals
+Statistical summaries,
+Time series plots & trend visuals,
 Seasonal and pattern analysis
 
 Models Used:
 
-ARIMA – trend forecasting
-SARIMA – seasonal forecasting
+ARIMA – trend forecasting,
+SARIMA – seasonal forecasting,
 LSTM – deep learning for long-term patterns
 
 Evaluation:
 
 Metrics used:
 
-MAE
-MSE
-RMSE
-R² Score
+MAE,
+MSE,
+RMSE,
+R² Score,
 
 Key Insights:
 
